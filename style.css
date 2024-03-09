@@ -324,7 +324,7 @@ section{
     inset: 0;
     background: var(--gradient-color-bg);
     filter: blur(5px);
-    animation: animate 2s linear infinite;
+    animation: animate 3s linear infinite;
 }
 
 
